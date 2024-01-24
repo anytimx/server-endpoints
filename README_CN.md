@@ -26,7 +26,7 @@
 
 ## 报告问题
 
-如果您遇到备用服务器端点的任何问题，请通过[问题跟踪](https://github.com/anytimx/server-endpoints/issues)报告它们。
+如果您遇到备用服务器端点的任何问题，请通过 [问题跟踪](https://github.com/anytimx/server-endpoints/issues) 报告它们。
 
 ## 贡献
 
@@ -34,7 +34,7 @@
 
 ## 联系方式
 
-如需进一步的帮助或查询，请通过[support@anytimx.com](mailto:support@anytimx.com)与我们联系。
+如需进一步的帮助或查询，请通过 [support@anytimx.com](mailto:support@anytimx.com) 与我们联系。
 
 ## 免责声明
 
@@ -42,4 +42,4 @@
 
 ## 许可证
 
-此仓库的内容在[MIT 许可证](LICENSE)下提供。
+此仓库的内容在 [MIT 许可证](LICENSE) 下提供。
